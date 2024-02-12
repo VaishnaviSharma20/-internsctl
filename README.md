@@ -9,9 +9,6 @@ Retrieve file information including size, permissions, owner, and last modified 
 Installation
 Simply download or clone this repository to your local machine:
 
-git clone https://github.com/neerajsharma684/internsctl.git
-
-
 ## Ensure the script (internsctl.sh) has executable permissions:
 - chmod +x internsctl
 
