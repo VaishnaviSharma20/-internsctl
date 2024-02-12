@@ -1,3 +1,4 @@
+internsctl
 internsctl is a command-line tool designed for system information retrieval and user management tasks. It provides functionalities to fetch CPU information, memory details, manage users, and retrieve file information.
 
 Features
